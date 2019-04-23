@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruturaj's Blog</title>
+    <description>Ruturaj's blog,use Jekyll and github pages.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 24 Apr 2019 01:03:58 +0530</pubDate>
+    <lastBuildDate>Wed, 24 Apr 2019 01:03:58 +0530</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>GSoC Proposal Experience</title>
+        <description>&lt;p&gt;Hi folks, &lt;br /&gt;
+While there is a lot of content available online about the ways in which you can contribute to open source, not much information is there about writing a good GSoC proposal. I would like to share my experience on how I created my proposal.
+The most important thing to note is that creating a proposal is not a one-day thing. There are a lot of steps involved in writing a good proposal and you have to dedicate a considerable amount of time to it. With that being said, let’s get into the steps involved in this process:&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;1-starting-early-very-important&quot;&gt;1. Starting Early (Very Important)&lt;/h3&gt;
+&lt;p&gt;As we all know GSoC is a very competitive program. Students from all around the globe apply for the same organization that you might be considering. So the key here is to start looking for organizations early. Big organizations require that you already have made significant contributions to their codebase before GSoC application period starts. 
+For getting an idea of the probable organizations that might get selected when Google announces the organizations’ list, you can have a look at the past projects on the GSoC website. Most of the organizations get selected every year and so you can start having a look at their previous projects. At first, decide which type of projects do you want to work on, which technology stack do you prefer and are comfortable working on during the entire duration of summer.
+Once you have decided the stack, start shortlisting the organizations. There will be many organizations working on projects of your interest. You should select the ones that you feel are interesting enough and motivate you to work during a course of 3 months. Please do not shortlist more than 4-5 organizations as writing proposal takes time and you might end up writing 1 or 2 proposals at max (if you want to write quality proposals).
+There are also some new organizations that are added every year. For such organizations, you can start contacting the mentors only after Google releases the official list of selected organizations.
+I had applied to two organizations i.e. Rucio (under CERN-HSF) and FrameNet Brasil. Among these, CERN-HSF is one of the many organizations that get selected every year whereas FrameNet Brasil was a new organization and this was its first year. Initially, in the first week of February, I had shortlisted around 3 organizations (excluding FrameNet) and joined their Slack workspace to get to know the community and the projects.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;2-contacting-the-mentors-and-discussing-the-projects&quot;&gt;2. Contacting the mentors and discussing the projects.&lt;/h3&gt;
+&lt;p&gt;As mentioned above, I had joined the slack channels of 3 organizations and started communicating with the mentors. I noticed that apart from Rucio, the other two organizations already had a lot of candidates working on the projects that I had shortlisted. So I decided to go with Rucio. In Rucio, there were only two guys who had joined prior to me (who apparently happened to be my own classmates :P ). 
+The thing with organizations under CERN is that you have to pass a technical test before you can start discussing the proposal with your mentors. So as soon as I joined the channel, I started working on the test and completed it the next day. Once this was done we were told to start creating our proposal. Your proposal will go through many iterations while discussing with your mentors.
+Further when Google announced the selected organizations’ list on 27th February, I again started looking for some new organizations to see if any of them catches my interest. During this search, I came across FrameNet Brasil. Having an interest in Deep Learning and Computer Vision, from the start I was looking for an organization having projects related to this field. But unfortunately, all of them were very competitive and there was less chance of getting selected in those organizations. But FrameNet Brasil was a new organization and also had projects in the field in which I was interested. So as soon as the list was released I contacted the mentors with the hope that joining it early might increase my chances of getting selected. I joined the Slack channel for FrameNet and luckily was the first one to do so. I quickly started discussing the project with my mentors and the criteria there was to submit a 1-3 page pre-proposal before 10th March. I created the pre-proposal and shared it with the mentors. The mentors liked the approach and suggested some changes in the proposal. 
+This went on till the point that the preproposal was good enough to start working on the actual proposal.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;3-writing-the-proposal-yes-finally&quot;&gt;3. Writing the Proposal (Yes finally!)&lt;/h3&gt;
+&lt;p&gt;Before you actually start writing the proposal, you need to do some research about the project you will be working on. Find out if there is already an established method for creating something that you will be working on, figure out multiple approaches, discuss it with your mentors and incorporate their feedback into your proposal. 
+Create a rough sketch of the approach you are suggesting and plan out the details according to that. It is okay if your first draft is not outstanding and well structured. It is more important to have an idea of what you want to write than how you write it. Of course, the way in which you present your ideas matter to the reviewer but it can be figured out during the iterations. If you are not sure about the content to be written then it is a big problem and you will need to constantly talk to mentors and take out as much information from them as possible to get a clear idea of the project.
+Many organizations provide a template for the proposal. It is your duty to check if the organization you are applying to has provided such a template. If you fail to conform to the structure of the template issued, then there are high chances of getting rejected, in fact, many organizations won’t even read proposals that do not follow their template properly. So you should avoid making such mistakes and missing out on an organization for such reasons. 
+If a template is not already provided, you can follow the one which Google provides: &lt;a href=&quot;https://google.github.io/gsocguides/student/writing-a-proposal&quot;&gt;https://google.github.io/gsocguides/student/writing-a-proposal&lt;/a&gt;. This is also a good article and you should read it once before creating your proposal.
+To give the mentors a clear understanding of your idea, it is better to include some diagrams and charts in your proposal, for example, flowchart, sequence diagram, class diagram, etc. Diagrams provide a clear sense of what your idea is and what will be the flow of the project. Some websites where you can quickly create beautiful diagrams are &lt;a href=&quot;www.lucidchart.com/&quot;&gt;lucidchart&lt;/a&gt; and &lt;a href=&quot;https://www.draw.io/&quot;&gt;draw.io&lt;/a&gt;.
+The final task is to develop a timeline for your proposal. This is the main part which mentors closely observe and so it is important to create a detailed and well-planned timeline. Start out by listing down all the tasks that are to be completed in the project. This should also include the testing time (important) and documentation. Prioritize the tasks and list out each subtask in detail in a (preferably) week-wise schedule. 
+Remember that there are three evaluation phases, one every month. It is important that you plan the tasks carefully and assign adequate time for the completion of each task. This is because you are required to provide the deliverables for each evaluation phase and if you fail to complete these deliverables, then there are chances that you might get ruled out of the program. So it is important to plan your work carefully and assign the time accordingly. With that being said, it does not mean that you underestimate yourself and allot much more time for a task than it is actually needed. Such a proposal indicates a low level of self-confidence and productivity and should be avoided.
+In both the proposals, I had included 3-4 diagrams each and also some code samples to indicate the internal working. I constantly kept in touch with my mentors and gave them regular updates on the proposal. It is important that you keep talking to your mentors often so that they are aware of your seriousness for the project.
+While there is no rule on how long your proposal should be, it is recommended that it should be at least 10 pages. A detailed proposal has more chances of getting selected that the one which only gives an outline of the idea without much explanation.
+The last step is to get your proposal reviewed thoroughly with your mentors and making changes as early as possible so that you can submit the proposal once the application period for students starts. It is recommended that you submit your proposal early so that mentors can provide any additional feedback if they want to and also to avoid any last minute problems. 
+Also, one thing I would like to suggest is that once you submit the proposal, please don’t just disappear and directly check the final results. You should try to keep in touch with the organization by solving issues or any other help that you are able to provide. This shows that you are truly interested in the organization and their project and may increase your chances over others.&lt;/p&gt;
+
+&lt;p&gt;If you are still here then thank you for your patience and for reading my experience. Wish you All The Best for your application process and keep trying hard until you achieve what you want.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 23 Apr 2019 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/gsoc/2019/04/23/GSoC-proposal-experience.html</link>
+        <guid isPermaLink="true">http://localhost:4000/gsoc/2019/04/23/GSoC-proposal-experience.html</guid>
+        
+        <category>Ruturaj</category>
+        
+        <category>GSoC</category>
+        
+        <category>Jekyll</category>
+        
+        
+        <category>GSoC</category>
+        
+      </item>
+    
+  </channel>
+</rss>

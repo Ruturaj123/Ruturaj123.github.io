@@ -1,0 +1,43 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Falkonry
+    i18n: company_a
+  desc:
+    detail:  Worked with various tools and frameworks like Docker, ELK stack, NodeJS, Angular, Django. Also created test cases in Pytest and Mocha. 
+    i18n: company_a_desc
+  date:
+    detail: Jun. 2018
+    i18n: company_a_date
+  job:
+    detail: Engineering Intern
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Indian Institute of Technology, Bombay
+    i18n: company_b
+  desc:
+    detail:  Working on a project for classifying protein expression of biomarkers on Microarray platform.
+    i18n: company_b_desc
+  date:
+    detail: Jul. 2018
+    i18n: company_b_date
+  job:
+    detail:  Deep Learning and Computer Vision Intern
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: VoyaGenius Labs
+    i18n: company_c
+  desc:
+    detail:  Worked on various PoCs ranging in domains like CV and NLP. Used Faster R-CNN, Fairseq toolkit, OpenPose among other things.
+    i18n: company_c_desc
+  date:
+    detail: Oct. 2018
+    i18n: company_c_date
+  job:
+    detail:  Machine Learning Intern
+    i18n: company_c_job
+  icon: fa-plus-square

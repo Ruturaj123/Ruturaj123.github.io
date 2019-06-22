@@ -44,3 +44,5 @@ The last step is to get your proposal reviewed thoroughly with your mentors and 
 Also, one thing I would like to suggest is that once you submit the proposal, please don’t just disappear and directly check the final results. You should try to keep in touch with the organization by solving issues or any other help that you are able to provide. This shows that you are truly interested in the organization and their project and may increase your chances over others.
 
 If you are still here then thank you for your patience and for reading my experience. Wish you All The Best for your application process and keep trying hard until you achieve what you want.
+
+UPDATE: I have been selected into CERN-HSF (Rucio) for GSoC 2019.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GSoC Evaluation Phase 1"
-date:   2019-05-22
+date:   2019-06-22
 desc: "Work completed till first evaluation phase."
 keywords: "Ruturaj,Jekyll,gh-pages,website,blog,easy,gsoc,evaluation"
 categories: [GSoC]

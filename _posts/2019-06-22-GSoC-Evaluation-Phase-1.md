@@ -16,7 +16,7 @@ I have been working on the Rucio project for the past 1 month as a part of GSoC 
 
 ## **Work completed as of now**
 My first task was to create a Username/Password login authentication for the Rucio-WebUI.
-The need was to ass the userpass authentication alongside the default x509 authentication. This is because some organizations relied only on x509 authentication while some had username/password credentials. So depending upon the configuration specified in the config file, the desired auth type would be invoked.
+The need was to add the userpass authentication alongside the default x509 authentication. This is because some organizations relied only on x509 authentication while some had username/password credentials. So depending upon the configuration specified in the config file, the desired auth type would be invoked.
 The [PR](https://github.com/rucio/rucio/pull/2615) for this task has been merged into the repository.
 
 <br>

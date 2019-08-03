@@ -41,3 +41,17 @@
     detail:  Machine Learning Intern
     i18n: company_c_job
   icon: fa-plus-square
+
+- name:
+    detail: GSoC 2019 @ CERN-HSF
+    i18n: company_d
+  desc:
+    detail:  Working on a set of tasks for adding new features to the Rucio WebUI and backend.
+    i18n: company_d_desc
+  date:
+    detail: May. 2019
+    i18n: company_d_date
+  job:
+    detail:  Student Developer Intern
+    i18n: company_d_job
+  icon: fa-plus-square

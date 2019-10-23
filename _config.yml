@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-database
     - name: fa-android
-  desc: I am Ruturaj Gujar, currently in 3rd year of computer engineering. My interest lies in Machine Learning, Computer Vision, Android.  # Describe yourself.
+  desc: I am Ruturaj Gujar, currently in the final year of computer engineering. My interest lies in Machine Learning, Computer Vision, Android.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

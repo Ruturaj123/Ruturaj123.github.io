@@ -29,11 +29,11 @@ The [**Pull Request**](https://github.com/rucio/rucio/pull/2615) for this task h
 <br>
 
 * The next task was to create a Single Sign-On System for Rucio. Some users of Rucio already have a CERN account and so for them it would be convenient to create a SSO system which would authenticate the users based on their CERN account credentials. The challenge here was to use SAML with python for making requests to the CERN Auth Server. 
-As of now, this task has been completed and the [**Pull Request**](https://github.com/rucio/rucio/pull/2689) is set for a final review. 🔎
+Here is the merged [**Pull Request**](https://github.com/rucio/rucio/pull/2689). ✔️
 <br>
 
 * The final task was to create a collection following mechanism for the datasets. There are many operations that can affect a dataset or its rules and have an effect on its users. For eg. File loss, dataset erased, lifetime expiration and so on. The problem was that all these operations occur without notifying the users. So the idea was to create a following mechanism where users can *follow* a particular dataset. Now when any above-mentioned operation affects the dataset, the users will be notified about it by a daily email summarizing all the events.  
-For this task, the [**Pull Request**](https://github.com/rucio/rucio/pull/2735) is under review. 🔎
+For this task too, the [**Pull Request**](https://github.com/rucio/rucio/pull/2735) has been merged. ✔️
 
 <br>
 

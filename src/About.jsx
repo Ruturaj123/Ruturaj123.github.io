@@ -23,8 +23,7 @@ function About() {
   const databases = [
     'SQL',
     'MongoDB',
-    'Elastic Search',
-    'AWS',
+    'Elastic Search'
   ];
 
   const tools = [
